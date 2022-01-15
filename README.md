@@ -1,4 +1,4 @@
-# Election_Analysis# election-analysis
+# Election_Analysis
 
 ## Project Overview
 This project's main objective is to process election data in order to determine the following:
