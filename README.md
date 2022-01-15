@@ -41,4 +41,4 @@ In order to perform the analysis, the data file was read, processed using multip
 	- Denver: 82.8% (306,055 votes)
 	- Arapahoe: 6.7% (24,801 votes)
 - The county with the largest turnout was:
-	-Denver
+	- Denver
