@@ -36,9 +36,9 @@ In addition to the project overview and summary above, the challenge's main obje
 ## Challenge Summary
 In order to perform the analysis, the data file was read, processed using multiple if statements and for loops, then the results were written to the text file. In doing this, the following was determined:
 
--The turnout for each county was:
+- The turnout for each county was:
 	- Jefferson: 10.5% (38,855 votes)
 	- Denver: 82.8% (306,055 votes)
 	- Arapahoe: 6.7% (24,801 votes)
--the county with the largest turnout was:
+- The county with the largest turnout was:
 	-Denver
